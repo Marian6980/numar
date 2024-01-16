@@ -1,2 +1,0 @@
-Acesta este primul meu fisier versionat.
-Acesta este al doilea commit. 
